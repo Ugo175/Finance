@@ -82,12 +82,3 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Contact
-
-If you have any questions, feel free to reach out:
-
-- **GitHub**: [Ugo175](https://github.com/your-username)
-- **Email**: ugochukwuigweagu2022@gmail.com
-
----
