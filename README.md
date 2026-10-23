@@ -1,4 +1,4 @@
-# Full Stack Stock and Options Trading Web App
+# Full Stack Stock and Options Trading Web App!
 
 Welcome to the **Full Stack Stock and Options Trading Web App**! This application allows users to manage portfolios of stocks, check real-time stock prices, and buy or sell stocks seamlessly.
 
